@@ -1,9 +1,9 @@
 # projeto-cookie-monster
 
-# Projeto XXXX
-## FPRO/MIEIC, 2021/22
-## Fulano de Tal (up2021xxxxx)
-## 1MIEICXX
+# Projeto Cookie Monster Munch
+## FP/LEIC, 2021/22
+## Ana Rita Pereira (up202108798)
+## 1LEIC04
 
 ### Objetivo
 
