@@ -7,9 +7,7 @@
 
 ### Objetivo
 
-1. Criar um clone do clássico Sokoban em Pygame...
-
-2. Em alternativa... do clássico x em Pygame.
+Criar uma réplica do jogo Cookie Monster Munch da Atari 2600, em python, utilizando o pygame.
 
 ### Repositório de código
 
@@ -28,9 +26,7 @@
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+Cookie Monster Munch é um jogo de labirinto para crianças entre os 5 a 7 anos. O objetivo do jogo é recolher as bolachas do jardim das bolachas e colocá-las no pote à entrada do labirinto. Nos primeiros níveis, o utilizador joga como Cookie Monster (Monstro das Bolachas). Já nos últimos níveis, o utilizador joga como Cookie Kid (Miúdo das Bolachas) e tenta não ser perseguido pelo Cookie Monster enquanto recolhe as bolachas pelo labirinto.
 
 ### UI
 
